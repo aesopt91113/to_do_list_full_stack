@@ -16,3 +16,4 @@
 //= require bootstrap
 //= require requests/index
 //= require_tree .
+//= require turbolinks
